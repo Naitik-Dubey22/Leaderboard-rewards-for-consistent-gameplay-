@@ -31,10 +31,9 @@ The goal of this project is to gamify engagement and reward players for their de
 5. **Customizable Reward Settings:**
    - The owner can adjust the reward-per-point value at any time.
 
+ ##Future Improvements
 
 
-
-##Future Improvements
 The "Leaderboard Rewards for Consistent Gameplay" project can evolve further with the following improvements:
 
 Dynamic Reward Rates:
