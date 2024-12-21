@@ -34,7 +34,7 @@ The goal of this project is to gamify engagement and reward players for their de
 
 
 
-Future Improvements
+##Future Improvements
 The "Leaderboard Rewards for Consistent Gameplay" project can evolve further with the following improvements:
 
 Dynamic Reward Rates:
