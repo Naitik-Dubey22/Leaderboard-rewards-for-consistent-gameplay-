@@ -5,6 +5,9 @@ The "Leaderboard Rewards for Consistent Gameplay" smart contract is a blockchain
 
 ## Contract Address
 0x974d3775eeF422988698d0Dba59e35Ef9225B9b1
+![image](https://github.com/user-attachments/assets/d5fd06a8-270f-48e2-8c16-0c2cbdfa2c93)
+
+
 ## Project Vision
 The goal of this project is to gamify engagement and reward players for their dedication and skill. By leveraging blockchain technology, we ensure a fair and tamper-proof reward distribution system that fosters trust and active participation among players.
 
